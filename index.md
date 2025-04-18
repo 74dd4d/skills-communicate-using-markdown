@@ -7,7 +7,10 @@
 ####### there is no header 7.
 #this is not a header.
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
+### a code example
 ``` python
 print("Hello, World!")
 ```
+### tasks
+- [x] Introduce myself to the world
+- [ ] Do English lessons for today
