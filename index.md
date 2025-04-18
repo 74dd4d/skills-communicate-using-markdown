@@ -6,3 +6,4 @@
 ###### header 6.
 ####### there is no header 7.
 #this is not a header.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
